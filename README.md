@@ -6,7 +6,7 @@ A modern and responsive web application designed to showcase and manage banquet 
 
 ## 🚀 Features
 
-* 🏛️ Elegant and responsive UI design
+* 🏛️ Elegant and responsive UI design.
 * 📅 Event / Banquet booking interface
 * 🖼️ Image gallery for showcasing venue
 * 📞 Contact / Inquiry form
